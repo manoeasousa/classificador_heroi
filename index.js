@@ -1,5 +1,5 @@
 let nomeHeroi = "Shazan"
-let XP = 10.001 
+let XP = 1
 
 switch(XP){
     case "XP < 1.000":
