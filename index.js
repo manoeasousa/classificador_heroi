@@ -1,5 +1,5 @@
 let nomeHeroi = "Shazan"
-let XP = 1.000
+let XP = 5000
 
 
 switch(XP){
@@ -29,3 +29,4 @@ break
 break
     console.log("O Herói " + nomeHeroi + " está no nível: ")
 }
+console.log ("O heroi de nome " + nomeHeroi + "está no nível " + XP)
