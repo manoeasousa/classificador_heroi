@@ -1,6 +1,7 @@
 let nomeHeroi = "Shazan"
 let XP = 1
 
+
 switch(XP){
     case "XP < 1.000":
     console.log ("O herói " + nomeHeroi + "está no nível Ferro")
@@ -26,5 +27,5 @@ break
     case "XP >= 10001":
     console.log ("O herói " + nomeHeroi + "está no nível Radiante");
 break
-
+    console.log("O Herói " + nomeHeroi + " está no nível: ")
 }
